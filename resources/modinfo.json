@@ -1,0 +1,11 @@
+{
+    "HarmonyId": "voidbehemoth.fontplus",
+    "DisplayName": "Font+",
+    "Authors": [
+      "VoidBehemoth"
+    ],
+    "Description": "A greater font selection for TOS2.",
+    "Version": "1.0.0",
+    "RequiredMods": [],
+    "Settings": {}
+}
